@@ -1,0 +1,6 @@
+/vendor
+/.osp
+/.idea
+composer.bat
+composer.phar
+composer.lock
